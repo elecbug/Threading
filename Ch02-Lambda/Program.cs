@@ -1,4 +1,4 @@
-﻿using InSpan;
+﻿using Module;
 
 internal class Program
 {

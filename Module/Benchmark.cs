@@ -1,4 +1,4 @@
-﻿namespace InSpan
+﻿namespace Module
 {
     public class Benchmark
     {
